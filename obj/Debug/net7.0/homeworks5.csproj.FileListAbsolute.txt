@@ -1,0 +1,15 @@
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\bin\Debug\net7.0\homeworks5.exe
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\bin\Debug\net7.0\homeworks5.deps.json
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\bin\Debug\net7.0\homeworks5.runtimeconfig.json
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\bin\Debug\net7.0\homeworks5.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\bin\Debug\net7.0\homeworks5.pdb
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.AssemblyInfo.cs
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\refint\homeworks5.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.pdb
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\homeworks5.genruntimeconfig.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks5\obj\Debug\net7.0\ref\homeworks5.dll
